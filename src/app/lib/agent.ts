@@ -5,7 +5,7 @@ import { initialize } from "next/dist/server/lib/render-server";
 
 const tools = [googleSearchTool];
 
-const AgentExecutor = async () => {
+export const AgentExecutor = async () => {
     const executor = await initializeAgentExecutorWithOptions(
         tools,
         model,
