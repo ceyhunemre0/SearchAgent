@@ -5,7 +5,7 @@ export default function Footer() {
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <div className="mb-6 md:mb-0">
                         <a href="#" className="text-2xl font-bold">Search
-                            <span className="text-indigo-400">Bot</span>
+                            <span className="text-indigo-400">Agent</span>
                         </a>
                         <p className="mt-2 text-gray-400">
                             SerpApi, OpenAI ve LangChain kullanılarak geliştirilmiş yapay zeka asistanı.

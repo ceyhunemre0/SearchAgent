@@ -10,7 +10,7 @@ export default function Navbar() {
 
             <div className="flex items-center">
                 <a href="#" className="text-2xl font-bold text-indigo-400">
-                    Search<span className="text-indigo-600">Bot</span>
+                    Search<span className="text-indigo-600">Agent</span>
                 </a>
             </div>
 
